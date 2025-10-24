@@ -1,0 +1,8 @@
+Crop,Region,Days to Harvest,Rainfall,Temperature
+Soybean,East,90,110,22.5
+Soybean,East,95,108,23.0
+Wheat,West,120,85,19.5
+Cotton,South,100,120,25.0
+Soybean,East,,117,22.0
+Wheat,East,abc,70,18.0
+Barley,East,75,95,17.0

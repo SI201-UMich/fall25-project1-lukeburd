@@ -1,0 +1,15 @@
+SI 201 • Project 1 Results
+Dataset: Agriculture Crop Yield (Kaggle)
+------------------------------------------------------------
+Calculation 1: Average Days to Harvest AND Average Rainfall by Crop
+  (Crops: Cotton, Wheat, Soybean)
+  - Cotton  | avg days: 104.53379956178527 days | avg rainfall: 549.9034141686701 mm | count: 166585
+  - Wheat   | avg days: 104.51490043378351 days | avg rainfall: 550.2486782552473 mm | count: 166673
+  - Soybean | avg days: 104.45594503122952 days | avg rainfall: 550.4742994895198 mm | count: 166349
+
+Calculation 2: Average Temperature for Soybean in East
+  - Avg Temperature (Soybean, East): 27.522856789874922 °C
+------------------------------------------------------------
+Notes:
+  • Rows with missing or invalid numeric values are excluded from averages.
+  • Matching is case-insensitive for categorical fields (Crop, Region).
